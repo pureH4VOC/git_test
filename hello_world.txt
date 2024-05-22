@@ -1,3 +1,5 @@
 Im enjoying learning how to code. 
 I look forward to making a game in the future with coding. 
 :)
+I am watching Kumal's YouTube video about Git.
+It seems very informative but quite long.
